@@ -1,0 +1,15 @@
+{
+  "name": "parsing",
+  "version": "1.0.0",
+  "description": "dotabuff",
+  "main": "parser.mjs",
+  "scripts": {
+    "start": "node parser.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postgres": "^3.3.1",
+    "puppeteer": "^19.1.0"
+  }
+}

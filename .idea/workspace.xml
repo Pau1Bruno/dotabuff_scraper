@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5434f778-dd67-4411-96f0-fee276f13c73" name="Changes" comment="ready scraper" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="64439ffd-e9b7-436f-b723-31bdf9aad155" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GYQRAaIEp1YxE6Lu3eqT69lWOG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "javascript.nodejs.core.library.configured.version": "16.18.0",
+    "javascript.nodejs.core.library.typings.version": "16.18.0",
+    "last_opened_file_path": "C:/Users/paulb/Desktop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+      "PostgreSQL"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paulb\Desktop\курсач" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.parser.mjs">
+    <configuration name="p.ushakov.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/p.ushakov.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="queries.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/queries.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="parser.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="parser.mjs" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="sendToDB.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/sendToDB.mjs" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.parser.mjs" />
+      <item itemvalue="Node.js.sendToDB.mjs" />
+      <item itemvalue="Node.js.test.js" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5434f778-dd67-4411-96f0-fee276f13c73" name="Changes" comment="" />
+      <created>1666563030292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666563030292</updated>
+      <workItem from="1666563031959" duration="4035000" />
+      <workItem from="1666595545841" duration="1924000" />
+      <workItem from="1666616421492" duration="11087000" />
+      <workItem from="1666628360311" duration="15864000" />
+      <workItem from="1666648687987" duration="714000" />
+      <workItem from="1666708791214" duration="11045000" />
+      <workItem from="1666795811327" duration="4805000" />
+      <workItem from="1666884668463" duration="3528000" />
+      <workItem from="1666903703306" duration="1158000" />
+      <workItem from="1667370507956" duration="14000" />
+      <workItem from="1670176056744" duration="9151000" />
+      <workItem from="1670185381637" duration="1550000" />
+      <workItem from="1670251128616" duration="10811000" />
+      <workItem from="1670262655413" duration="8838000" />
+      <workItem from="1670275437497" duration="10373000" />
+      <workItem from="1670338930465" duration="8844000" />
+      <workItem from="1670359048960" duration="11601000" />
+      <workItem from="1670370847267" duration="3341000" />
+      <workItem from="1670453019247" duration="212000" />
+      <workItem from="1670455135856" duration="1302000" />
+      <workItem from="1670492320360" duration="5068000" />
+      <workItem from="1670583026508" duration="3402000" />
+      <workItem from="1670597534324" duration="2266000" />
+      <workItem from="1670794163238" duration="81000" />
+      <workItem from="1675342649381" duration="729000" />
+      <workItem from="1675343433869" duration="345000" />
+    </task>
+    <task id="LOCAL-00001" summary="ready scraper">
+      <created>1675343175853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675343175853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ready scraper" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready scraper" />
+  </component>
+</project>
